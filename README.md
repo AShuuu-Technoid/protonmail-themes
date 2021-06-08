@@ -138,7 +138,7 @@ If you notice something's missing feel free to make a pull request. If you have 
 ### Supporting and maintaining the project
 ProtonMail is a great email service, I enjoy working on the project and provide themes for all. Please consider making a small donation, just the price of a cup of coffee *goes a long way* to help me maintain it and keep adding color to your private email experience! Thank you 🙇🏻
 
-<a href='https://www.paypal.me/ashwin0303'>
-<img src='https://telegra.ph/file/57d9b212c8fa45f155b94.png' target="_blank" alt='PayPal Me' width='160' />
+<a href='https://www.paypal.me/ashwin0303' target="_blank">
+<img src='https://telegra.ph/file/57d9b212c8fa45f155b94.png' alt='PayPal Me' width='160' />
 </a>
 
