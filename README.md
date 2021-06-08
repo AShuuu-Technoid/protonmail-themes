@@ -142,22 +142,3 @@ ProtonMail is a great email service, I enjoy working on the project and provide 
 <img src='https://images.squarespace-cdn.com/content/v1/5bd8c5642487fd42d2781bcc/1610548907152-B6MJO9X6U6QDRJQ2MF0N/ke17ZwdGBToddI8pDm48kGwI2q9ay8oxpMKuvrskYZlZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxM6CcmncPhVP9DiOF3uuho_BRHe4QOKd0MUCigtS_gvOZdmv0Ma8epo3jNOOsisKY/paypal-donate-button.png' alt='PayPal Me' width='160' />
 </a>
 
-### Frequently Asked Questions
-
-#### Do these themes compromise security?
-In short, no. All themes listed here will always style existing elements from ProtonMail's UI and not import any third party files from anywhere.
-At the time I created these themes I've received a few directions from ProtonMail's co-founder [Jason Stockman](https://twitter.com/jasonstockman) in order to avoid breaking layout and security issues.
-#### Why is Stylus required to use custom themes?
-
-Support for custom themes in ProtonMail's appearance settings [seems to have been temporarily disabled in `~v4.0.0 beta 33`](https://www.reddit.com/r/ProtonMail/comments/j2l1im/protonmail_beta_41_removes_ability_to_use_and/g767k97/?context=3).
-
-To use custom themes an alternative needs to be used to load the stylesheet. [Stylus](https://github.com/openstyles/stylus#releases) has been recommended but any other alternative should work.
-
-#### Where can I find more themes?
-* [ProtonMail's Official Themes](http://protonmail.tumblr.com/)
-* [Austin Delamar's ProtonMail Themes](https://github.com/amdelamar/pm-theme)
-* [Jérémie Cook's ProtonMail Theme](https://github.com/jeremiecook/protonmail-theme)
-* [Quark, a theme creator for ProtonMail](https://github.com/csalmeida/quark)
-
-#### Web References
-* [The Greenlume theme got featured on ProtonMail's website](https://protonmail.com/blog/protonmail-themes/)
