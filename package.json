@@ -1,0 +1,31 @@
+{
+  "name": "protonmail-themes",
+  "version": "4.0.0-beta12",
+  "description": "Customise ProtonMail with themes and enhance your encrypted email experience.",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run watch",
+    "watch": "gulp watch",
+    "build": "gulp build"
+  },
+  "devDependencies": {
+    "@mr-hope/gulp-sass": "^2.0.0",
+    "gulp": "^4.0.2",
+    "gulp-replace": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csalmeida/protonmail-themes.git"
+  },
+  "keywords": [
+    "protonmail",
+    "themes"
+  ],
+  "author": "Cristiano Almeida",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/csalmeida/protonmail-themes/issues"
+  },
+  "homepage": "https://github.com/csalmeida/protonmail-themes#readme",
+  "dependencies": {}
+}
