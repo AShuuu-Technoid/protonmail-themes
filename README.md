@@ -142,3 +142,4 @@ ProtonMail is a great email service, I enjoy working on the project and provide 
 <img src='https://images.squarespace-cdn.com/content/v1/5bd8c5642487fd42d2781bcc/1610548907152-B6MJO9X6U6QDRJQ2MF0N/ke17ZwdGBToddI8pDm48kGwI2q9ay8oxpMKuvrskYZlZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxM6CcmncPhVP9DiOF3uuho_BRHe4QOKd0MUCigtS_gvOZdmv0Ma8epo3jNOOsisKY/paypal-donate-button.png' alt='PayPal Me' width='160' />
 </a>
 
+### Frequently Asked Questions
