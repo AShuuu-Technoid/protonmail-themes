@@ -139,6 +139,6 @@ If you notice something's missing feel free to make a pull request. If you have 
 ProtonMail is a great email service, I enjoy working on the project and provide themes for all. Please consider making a small donation, just the price of a cup of coffee *goes a long way* to help me maintain it and keep adding color to your private email experience! Thank you 🙇🏻
 
 <a href='https://www.paypal.me/csalmeida/5'>
-<img src='https://getflywheel.com/wp-content/uploads/2015/10/paypal-donate-button-large.png' alt='PayPal Me' width='160' />
+<img src='https://images.squarespace-cdn.com/content/v1/5bd8c5642487fd42d2781bcc/1610548907152-B6MJO9X6U6QDRJQ2MF0N/ke17ZwdGBToddI8pDm48kGwI2q9ay8oxpMKuvrskYZlZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxM6CcmncPhVP9DiOF3uuho_BRHe4QOKd0MUCigtS_gvOZdmv0Ma8epo3jNOOsisKY/paypal-donate-button.png' alt='PayPal Me' width='160' />
 </a>
 
